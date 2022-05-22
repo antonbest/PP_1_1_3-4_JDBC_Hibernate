@@ -1,4 +1,4 @@
-package jm.task.core.jdbc.service;
+package jm.task.core.jdbc.model.service;
 
 import jm.task.core.jdbc.model.User;
 
