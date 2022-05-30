@@ -11,6 +11,7 @@ public class UserServiceImpl implements UserService {
 
     private final UserDao udi = new UserDaoHibernateImpl();
 
+
     public void createUsersTable() {
         udi.createUsersTable();
     }

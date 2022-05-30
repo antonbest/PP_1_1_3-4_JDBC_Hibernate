@@ -34,6 +34,7 @@ public class Util {
 
     private static SessionFactory sessionFactory;
 
+
     public static SessionFactory getSessionFactory() {
         if (sessionFactory == null) {
             try {
